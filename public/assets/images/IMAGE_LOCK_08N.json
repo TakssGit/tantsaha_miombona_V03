@@ -1,0 +1,77 @@
+{
+  "version": "08N",
+  "images": {
+    "produit_tomate_sechee.jpg": {
+      "sha256": "9e6b85298e0a8aa7b59a551db772f32e176726b98232eb6c340226cf870d31cb",
+      "bytes": 228044
+    },
+    "produit_coulis_tomate.jpg": {
+      "sha256": "7622a21071dcceaa311a374c46b52b351865378b5ae20440b81e53ff15204a92",
+      "bytes": 260218
+    },
+    "tomato-logo.svg": {
+      "sha256": "08bf96a47c0de01a8eebe228f30127b75563a5e7c0e1ceb8406cd5deeb27f2f2",
+      "bytes": 330
+    },
+    "produit_concentre_tomate.jpg": {
+      "sha256": "9e6b85298e0a8aa7b59a551db772f32e176726b98232eb6c340226cf870d31cb",
+      "bytes": 228044
+    },
+    "produit_sauce_tomate.jpg": {
+      "sha256": "afd92b2d739147f7a89502e79fbe5863f6a3eca72e3267525654817c083bea63",
+      "bytes": 217826
+    },
+    "produit_puree_tomate.jpg": {
+      "sha256": "b400c54861372502d1e56e3e22e678ffab8685559df73e755094118cb0ae1517",
+      "bytes": 229585
+    },
+    "hero_unite_transformation.jpg": {
+      "sha256": "4d1d537d89862759b679bc753cdca101699811cd852fab0b63f760e896c8cf71",
+      "bytes": 247680
+    },
+    "producteurs_champ_tomate.jpg": {
+      "sha256": "ac8da99fcc72b97144d9b6dba3dd5bc5442bd7da4781f342819c9de0e911a8cc",
+      "bytes": 286055
+    },
+    "collecte_transport_tomate.jpg": {
+      "sha256": "fb1d7da6c25fe8f5a4c1b2489f2ba1db42690ac64b38ed532244d33ff05f29e0",
+      "bytes": 228136
+    },
+    "point_focal_producteurs.jpg": {
+      "sha256": "b400c54861372502d1e56e3e22e678ffab8685559df73e755094118cb0ae1517",
+      "bytes": 229585
+    },
+    "catalogue_v03/chutney-tomates.png": {
+      "sha256": "1afb427dd39430c33a01872ee2685f300d099bcc38da722f4b0895fae5d226f0",
+      "bytes": 2245245
+    },
+    "catalogue_v03/ketchup-epice.png": {
+      "sha256": "c811c0d41e72ccdc4dcd5b3e7391fbb527de67ff06c2591c93cc2f54525c0501",
+      "bytes": 1937670
+    },
+    "catalogue_v03/sauce-tomate.png": {
+      "sha256": "b7208972b8f8d09155728e53c0b40debfce0a6be11de9ed874b99fb2033cfce8",
+      "bytes": 2011479
+    },
+    "catalogue_v03/concentre-double.png": {
+      "sha256": "764295242e3a7b1347213d84164162c08176cb1c22a141d77f174ec0497ddf73",
+      "bytes": 2163638
+    },
+    "catalogue_v03/tomates-sechees.png": {
+      "sha256": "e9c0ad2af35c98057e66bb4a0bc4b38472dc319709ef1be3ebc6c700dc5f69a2",
+      "bytes": 2333489
+    },
+    "catalogue_v03/puree-tomates.png": {
+      "sha256": "38cfd220f39d278af0d90fad6ed22ca7f99c1b9cbe60221dccbac4dc19c9bdac",
+      "bytes": 2147537
+    },
+    "catalogue_v03/coulis-basilic.png": {
+      "sha256": "4e55ecf022f306bd1a4c59267776a0a6e5cd191807bbb05595449f6d8d0e9784",
+      "bytes": 2153851
+    },
+    "catalogue_v03/confiture-tomates.png": {
+      "sha256": "7f8888a9d9facc7ac9bb1d36e71dd50840ea1cbd3e3c81a26fb9f452df5df171",
+      "bytes": 2061392
+    }
+  }
+}

@@ -1,0 +1,7 @@
+/* LOT 08I — switch linguistique et durcissement responsive non destructif */
+#tm-v03-i18n-toolbar{position:fixed;right:12px;bottom:14px;z-index:70;background:#fff;color:#18472f;border:1px solid #cbdccd;box-shadow:0 12px 30px #0002;border-radius:15px;padding:9px 12px;display:flex;gap:8px;align-items:center;font:600 12px system-ui,sans-serif;max-width:min(450px,calc(100vw - 20px))}
+#tm-v03-i18n-toolbar select{font:700 13px system-ui,sans-serif;color:#155936;background:#f3faf3;border:1px solid #cfe0d0;border-radius:8px;padding:8px;cursor:pointer}
+#tm-v03-i18n-toolbar small{display:none;line-height:1.3;font-size:11px;color:#537564}
+#tm-v03-i18n-toolbar:focus-within small,#tm-v03-i18n-toolbar:hover small{display:block;max-width:145px}
+@media(max-width:650px){#tm-v03-i18n-toolbar{right:8px;bottom:8px;padding:6px 8px}#tm-v03-i18n-toolbar label{display:none}#tm-v03-i18n-toolbar select{font-size:12px;padding:7px}body{overflow-x:hidden}img{max-width:100%;height:auto} .products-grid,.info-grid,.steps,.dashboard-grid{min-width:0}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
